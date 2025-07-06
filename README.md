@@ -1,15 +1,12 @@
-# SauceDemo-TestAutomation
-Automated UI tests for SauceDemo using Python and Selenium.
+# 🧪 SauceDemo-TestAutomation
 
-# 🧪 SauceDemo QA Test Cases
-
-This repository contains both **manual** and **automated test cases** written for the [SauceDemo](https://www.saucedemo.com/) sample e-commerce website. The tests cover core functionalities such as **Login**, **Product Listing**, and **Add to Cart** features.
+This repository contains **Selenium-based automated test scripts** and **manual test cases** for the [SauceDemo](https://www.saucedemo.com/) sample e-commerce website. The tests cover key features like **Login**, **Product Listing**, and **Add to Cart** to demonstrate real-world QA testing practices.
 
 ---
 
 ## ✅ Manual Test Cases
 
-All manual test cases are documented with the following structure:
+All manual test cases are written using a standard format including:
 
 - **Test Case ID**
 - **Title**
@@ -46,4 +43,4 @@ All manual test cases are documented with the following structure:
 
 Automated tests are written using **Python** with **Selenium WebDriver**.
 
-### 📁 Folder Structure
+### 📁 Recommended Folder Structure
