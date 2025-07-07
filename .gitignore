@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# VS Code / PyCharm settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Environment / config
+.env
+*.env
+
+# Python test reports and caches
+.pytest_cache/
+.cache/
+.coverage
+htmlcov/
+
+# Output files
+*.out
+
+# Chrome binary folder
+chrome-win64/
