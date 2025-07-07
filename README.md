@@ -29,7 +29,7 @@ All manual test cases are written using a standard format including:
 #### 🛍️ Product Listing (TC_006 - TC_008)
 6. View All Products After Login  
 7. View Products with Sorting A-Z  
-8. View Products with Correct Names and Prices  
+8. View Products with Sorting Price low-high 
 
 #### 🛒 Add to Cart (TC_009 - TC_012)
 9. Add a Single Item to Cart  
