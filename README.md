@@ -41,6 +41,7 @@ All manual test cases are written using a standard format including:
 
 ## ⚙️ Automated Test Scripts
 
-Automated tests are written using **Python** with **Selenium WebDriver**.
+Automated tests are written using:
 
-### 📁 Recommended Folder Structure
+- **Python 3.x**
+- **Selenium WebDriver**
